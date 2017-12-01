@@ -1,0 +1,5 @@
+C:\_Oneself\Wechat\Wechat
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=Wechat
+--content-root=C:\_Oneself\Wechat\Wechat
+--file=

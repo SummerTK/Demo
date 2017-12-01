@@ -1,0 +1,11 @@
+C:\_Oneself\Wechat\Wechat\bin\Release\netcoreapp2.0\Wechat.deps.json
+C:\_Oneself\Wechat\Wechat\bin\Release\netcoreapp2.0\Wechat.runtimeconfig.json
+C:\_Oneself\Wechat\Wechat\bin\Release\netcoreapp2.0\Wechat.runtimeconfig.dev.json
+C:\_Oneself\Wechat\Wechat\bin\Release\netcoreapp2.0\Wechat.dll
+C:\_Oneself\Wechat\Wechat\bin\Release\netcoreapp2.0\Wechat.pdb
+C:\_Oneself\Wechat\Wechat\obj\Release\netcoreapp2.0\Wechat.csproj.CoreCompileInputs.cache
+C:\_Oneself\Wechat\Wechat\obj\Release\netcoreapp2.0\Wechat.AssemblyInfoInputs.cache
+C:\_Oneself\Wechat\Wechat\obj\Release\netcoreapp2.0\Wechat.AssemblyInfo.cs
+C:\_Oneself\Wechat\Wechat\obj\Release\netcoreapp2.0\Wechat.dll
+C:\_Oneself\Wechat\Wechat\obj\Release\netcoreapp2.0\Wechat.pdb
+C:\_Oneself\Wechat\Wechat\obj\Release\netcoreapp2.0\Wechat.csprojResolveAssemblyReference.cache
