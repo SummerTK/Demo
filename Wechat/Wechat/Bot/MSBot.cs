@@ -25,9 +25,9 @@ namespace Wechat.Model
             client.BaseAddress = new Uri("https://directline.botframework.com/api/conversations/");
             client.DefaultRequestHeaders.Accept.Clear();
             client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
-            //client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("BotConnector", "uc0nyMvM0NI.cwA.wYs.B8F1M7cEBm9StsTDG8pmuOjhnxeCJd2LdvNlKVfBgro");
+            client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("BotConnector", "1-o_-ID2Nd4.cwA.sWU.B6_lTPHYhWgwUoCb_7lXXIxkuq4xs5a5TLqh436AsDU");
             // for leon
-            client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("BotConnector", "McfcUTJYJTo.cwA.mfY.nuvLSsBQYETBygIfHUCIIHOpBz-LnAUWEGf-QMOFxR8");
+            //client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("BotConnector", "McfcUTJYJTo.cwA.mfY.nuvLSsBQYETBygIfHUCIIHOpBz-LnAUWEGf-QMOFxR8");
             // for doudou
             //client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("BotConnector", "iCoMHD3whk8.cwA.50s.vlUvoUn7IjjRuHkSeNZQ2dOIHHTOftz07bAJRF2WJy8");
 

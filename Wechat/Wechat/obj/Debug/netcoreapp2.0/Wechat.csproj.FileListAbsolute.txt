@@ -20,3 +20,14 @@ C:\Users\Summer\Documents\GitHub\We_Chat\Wechat\Wechat\obj\Debug\netcoreapp2.0\W
 C:\Users\Summer\Documents\GitHub\We_Chat\Wechat\Wechat\obj\Debug\netcoreapp2.0\Wechat.dll
 C:\Users\Summer\Documents\GitHub\We_Chat\Wechat\Wechat\obj\Debug\netcoreapp2.0\Wechat.pdb
 C:\Users\Summer\Documents\GitHub\We_Chat\Wechat\Wechat\obj\Debug\netcoreapp2.0\Wechat.csprojResolveAssemblyReference.cache
+C:\Users\Summer\Documents\GitHub\Demo\Wechat\Wechat\bin\Debug\netcoreapp2.0\Wechat.deps.json
+C:\Users\Summer\Documents\GitHub\Demo\Wechat\Wechat\bin\Debug\netcoreapp2.0\Wechat.runtimeconfig.json
+C:\Users\Summer\Documents\GitHub\Demo\Wechat\Wechat\bin\Debug\netcoreapp2.0\Wechat.runtimeconfig.dev.json
+C:\Users\Summer\Documents\GitHub\Demo\Wechat\Wechat\bin\Debug\netcoreapp2.0\Wechat.dll
+C:\Users\Summer\Documents\GitHub\Demo\Wechat\Wechat\bin\Debug\netcoreapp2.0\Wechat.pdb
+C:\Users\Summer\Documents\GitHub\Demo\Wechat\Wechat\obj\Debug\netcoreapp2.0\Wechat.csprojResolveAssemblyReference.cache
+C:\Users\Summer\Documents\GitHub\Demo\Wechat\Wechat\obj\Debug\netcoreapp2.0\Wechat.csproj.CoreCompileInputs.cache
+C:\Users\Summer\Documents\GitHub\Demo\Wechat\Wechat\obj\Debug\netcoreapp2.0\Wechat.AssemblyInfoInputs.cache
+C:\Users\Summer\Documents\GitHub\Demo\Wechat\Wechat\obj\Debug\netcoreapp2.0\Wechat.AssemblyInfo.cs
+C:\Users\Summer\Documents\GitHub\Demo\Wechat\Wechat\obj\Debug\netcoreapp2.0\Wechat.dll
+C:\Users\Summer\Documents\GitHub\Demo\Wechat\Wechat\obj\Debug\netcoreapp2.0\Wechat.pdb

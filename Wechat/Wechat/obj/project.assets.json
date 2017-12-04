@@ -13370,11 +13370,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Summer\\Documents\\We_Chat\\Wechat\\Wechat\\Wechat.csproj",
+      "projectUniqueName": "C:\\Users\\Summer\\Documents\\GitHub\\Demo\\Wechat\\Wechat\\Wechat.csproj",
       "projectName": "Wechat",
-      "projectPath": "C:\\Users\\Summer\\Documents\\We_Chat\\Wechat\\Wechat\\Wechat.csproj",
+      "projectPath": "C:\\Users\\Summer\\Documents\\GitHub\\Demo\\Wechat\\Wechat\\Wechat.csproj",
       "packagesPath": "C:\\Users\\Summer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Summer\\Documents\\We_Chat\\Wechat\\Wechat\\obj\\",
+      "outputPath": "C:\\Users\\Summer\\Documents\\GitHub\\Demo\\Wechat\\Wechat\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
