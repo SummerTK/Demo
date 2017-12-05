@@ -57,7 +57,6 @@ namespace Wechat.Controllers
             //获取request的响应  
             var memoryStream = new MemoryStream();
             Request.Body.CopyTo(memoryStream);
-
             var messageHandler = new CustomMessageHandler(memoryStream, postModel);//接收消息  
             messageHandler.Execute();//执行微信处理过程  
 
