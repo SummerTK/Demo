@@ -1,9 +1,0 @@
-C:\Users\Summer\Documents\GitHub\Demo\Navigation\PageNavi\PageNavi\bin\PageNavi.dll.config
-C:\Users\Summer\Documents\GitHub\Demo\Navigation\PageNavi\PageNavi\bin\PageNavi.dll
-C:\Users\Summer\Documents\GitHub\Demo\Navigation\PageNavi\PageNavi\bin\PageNavi.pdb
-C:\Users\Summer\Documents\GitHub\Demo\Navigation\PageNavi\PageNavi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\Summer\Documents\GitHub\Demo\Navigation\PageNavi\PageNavi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Summer\Documents\GitHub\Demo\Navigation\PageNavi\PageNavi\obj\Debug\PageNavi.csprojResolveAssemblyReference.cache
-C:\Users\Summer\Documents\GitHub\Demo\Navigation\PageNavi\PageNavi\obj\Debug\PageNavi.csproj.CoreCompileInputs.cache
-C:\Users\Summer\Documents\GitHub\Demo\Navigation\PageNavi\PageNavi\obj\Debug\PageNavi.dll
-C:\Users\Summer\Documents\GitHub\Demo\Navigation\PageNavi\PageNavi\obj\Debug\PageNavi.pdb
