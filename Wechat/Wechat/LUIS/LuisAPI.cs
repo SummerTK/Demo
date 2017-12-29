@@ -19,7 +19,7 @@ namespace Wechat.Model
             LuisMessage luisMsg = LuisAPI.Default.GetLuis(query);
             if (luisMsg == null || luisMsg.entities == null || luisMsg.entities.Count <= 0)
             {
-                return "好尴尬啊";
+                return "好尴尬啊,小哈有点被你整懵逼了";
             }
             string reponse = luisMsg.topScoringIntent.intent;
             return reponse;
